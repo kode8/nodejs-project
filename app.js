@@ -10,4 +10,4 @@ function whynow() {
 
 const john = whynow();
 
-john();
+john(); // test
