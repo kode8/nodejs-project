@@ -3,6 +3,7 @@
 node_modules
 nodejs.sublime-project
 nodejs.sublime-workspace
+.vscode
 
 # Only apps should have lockfiles
 yarn.lock
